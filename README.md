@@ -1,2 +1,2 @@
 # AP-CSA
-Files from AP Computer Science A
+Learning Java for AP Computer Science A exam.
